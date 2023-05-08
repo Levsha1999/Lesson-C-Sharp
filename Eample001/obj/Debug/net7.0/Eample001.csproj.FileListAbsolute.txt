@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\bin\Debug\net7.0\Eample001.exe
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\bin\Debug\net7.0\Eample001.deps.json
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\bin\Debug\net7.0\Eample001.runtimeconfig.json
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\bin\Debug\net7.0\Eample001.dll
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\bin\Debug\net7.0\Eample001.pdb
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.AssemblyInfo.cs
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.dll
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\refint\Eample001.dll
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.pdb
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\Eample001.genruntimeconfig.cache
+C:\Users\asus\Desktop\C Shapr\Lesson001\Eample001\obj\Debug\net7.0\ref\Eample001.dll
